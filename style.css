@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://img.freepik.com/vector-premium/patron-puntos-colores-sobre-fondo-blanco-patron-verano_652800-125.jpg);
+    font-family: "Josefin Sans", sans-serif;
+}
+h1{
+    font-family: "Josefin Sans", sans-serif;
+}
+p{
+    font-family: "Josefin Sans", sans-serif;
+}
+.frase{
+    font-family: "Flavors", cursive;
+}
+.lista{
+    font-family: "Josefin Sans", sans-serif;
+    list-style: none;
+}
+.sonrisas{
+    font-family: "Flavors", cursive;
+}
